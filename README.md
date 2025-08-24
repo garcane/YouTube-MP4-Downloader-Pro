@@ -30,7 +30,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/gappeah/YouTube-MP4-Downloader-Pro.git
+   git clone https://github.com/garcane/YouTube-MP4-Downloader-Pro.git
    cd YouTube-MP4-Downloader-Pro
    ```
 
