@@ -32,11 +32,11 @@ pip install pytubefix moviepy requests
 
 ### Dependencies
 
-<<<<<<< HEAD
+
 * **pytubefix** – For accessing YouTube streams
 * **moviepy** – For merging video and audio files
 * **requests** – For checking video availability
-=======
+
 ## Installation
 
 1. **Clone the repository** (if applicable):
