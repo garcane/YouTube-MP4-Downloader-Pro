@@ -53,7 +53,6 @@ pip install pytubefix moviepy requests
 3. **Ensure FFmpeg is installed** (required by `moviepy`):
    - Download and install FFmpeg from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html).
    - Add FFmpeg to your system's PATH.
->>>>>>> ca64dcd8c66ca01c8cca4d1ac8908e33b2849090
 
 ---
 
